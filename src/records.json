@@ -1,0 +1,28 @@
+[
+    {
+        "id": 1,
+        "title": "Fighter",
+        "age": 25,
+        "Nickname":"Boss"
+    },
+    {
+        "id": 2,
+        "title": "Leader",
+        "age": 30
+    },
+    {
+        "id": 3,
+        "title": "Courageous",
+        "age": 35
+    },
+    {
+        "id": 4,
+        "title": "Hitter",
+        "age": 40
+    },
+    {
+        "id": 5,
+        "title": "Warrior",
+        "age": 45
+    }
+]
